@@ -1,3 +1,7 @@
 
 git submodule add git@github.com:vim-ruby/vim-ruby.git bundle/vim-ruby
 
+altercation/vim-colors-solarized.git
+wincent/command-t.git
+
+git submodule add https://github.com/wincent/command-t.git bundle/command-t
