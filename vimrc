@@ -24,4 +24,13 @@ if !has('gui_running')
   set t_Co=256
 endif
 set signcolumn=yes
+set ruler
+set nobackup
+set nowritebackup
+set autoread
+set showcmd
+set list listchars=tab:»·,trail:·,nbsp:·
+set scrolloff=4
+set sidescrolloff=15
+set sidescroll=1
 
