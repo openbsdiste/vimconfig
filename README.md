@@ -14,3 +14,6 @@ Mode d'emploi :
 
 ## Enjoy !
 
+Je vois pas pourquoi quelqu'un aurait besoin de ma conf mais après tout, pourquoi pas...
+J'ai fait ma conf en cherchant des infos sur le net, pas certain que ce soit la meilleure.
+
